@@ -1,6 +1,8 @@
-#Projeto de TCC
-Este projeto refere-se ao trabalho de conclusão do Curso de Ciência de dado da Univesp
-Integrantes:
+# Projeto de TCC
+
+Este projeto refere-se ao trabalho de conclusão do Curso de Ciência de dado da Univesp.
+
+#### Integrantes:
 
 - Adilson Domingues;
 - Alex Soares da Silva;
